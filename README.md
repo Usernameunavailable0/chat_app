@@ -14,17 +14,6 @@
 - ⭐ At the end, Deployment like a pro for FREE!
 - ⏳ And much more!
 
-## Features
-
-- **User Authentication:** Secure login and registration using JWT authentication.
-- **Real-time Chat:** Instant messaging powered by Socket.io.
-- **Online Status Tracking:** Displays live user status updates.
-- **Message Persistence:** Stores chat history using MongoDB.
-- **Media Sharing:** Users can send images and files via Cloudinary integration.
-- **Global State Management:** Manages application state efficiently with Zustand.
-- **Responsive UI:** Modern and mobile-friendly interface using TailwindCSS and Daisy UI.
-- **Error Handling:** Robust error management on both client and server.
-- **Free Deployment:** Guide to deploy the application at no cost.
 
 ## Setup .env file
 
